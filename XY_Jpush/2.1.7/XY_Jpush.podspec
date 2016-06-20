@@ -108,7 +108,7 @@ Offically supported JPush iOS SDK Pod. 官方支持的极光推送SDK. \n集成�
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
 
-  # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
+   s.preserve_paths = "lib/libjpush-ios-2.1.7.a"
 
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
