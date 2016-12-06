@@ -23,7 +23,7 @@
     {
       "name": "Core",
       "dependencies": {
-        "Firebase/Analytics": [
+        “XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
@@ -34,7 +34,7 @@
         "Google-Mobile-Ads-SDK": [
           "7.8.1"
         ],
-        "Firebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
@@ -56,7 +56,7 @@
         "Headers/module.modulemap"
       ],
       "user_target_xcconfig": {
-        "HEADER_SEARCH_PATHS": "$(inherited) ${PODS_ROOT}/Firebase/Headers"
+        "HEADER_SEARCH_PATHS": "$(inherited) ${PODS_ROOT}/XYFirebase/Headers"
       }
     },
     {
@@ -65,7 +65,7 @@
         "FirebaseAppIndexing": [
           "1.0.3"
         ],
-        "Firebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
@@ -76,7 +76,7 @@
         "FirebaseAuth": [
           "3.0.3"
         ],
-        "Firebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
@@ -87,7 +87,7 @@
         "FirebaseCrash": [
           "1.0.6"
         ],
-        "Firebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
@@ -98,7 +98,7 @@
         "FirebaseDatabase": [
           "3.0.2"
         ],
-        "Firebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
@@ -109,7 +109,7 @@
         "FirebaseDynamicLinks": [
           "1.1.0"
         ],
-        "Firebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
@@ -120,7 +120,7 @@
         "FirebaseInvites": [
           "1.1.0"
         ],
-        "Firebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
@@ -131,7 +131,7 @@
         "FirebaseMessaging": [
           "1.1.0"
         ],
-        "Firebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
@@ -142,7 +142,7 @@
         "FirebaseRemoteConfig": [
           "1.1.1"
         ],
-        "Firebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
@@ -153,7 +153,7 @@
         "FirebaseStorage": [
           "1.0.2"
         ],
-        "Firebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
