@@ -1,5 +1,5 @@
 {
-  "name": “XYFirebase",
+  "name": "XYFirebase",
   "version": "3.3.0",
   "summary": "Firebase for iOS",
   "description": "Simplify your iOS development, grow your user base, and monetize more effectively with Firebase.",
@@ -23,7 +23,7 @@
     {
       "name": "Core",
       "dependencies": {
-        “XYFirebase/Analytics": [
+        "XYFirebase/Analytics": [
           "3.3.0"
         ]
       }
