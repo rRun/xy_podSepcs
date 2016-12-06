@@ -10,7 +10,7 @@
   },
   "authors": "Google Inc.",
   "source": {
-    "http": "https://github.com/rRun/FireBase/raw/master/4a4de204d5c1658d-Firebase-3.3.0.tar"
+    "http": "https://github.com/rRun/FireBase/raw/master/4a4de204d5c1658d-Firebase-3.3.0.tar.gz”
   },
   "requires_arc": true,
   "platforms": {
